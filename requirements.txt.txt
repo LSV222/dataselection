@@ -1,0 +1,6 @@
+# Needed packages/versions
+os
+pandas
+operator
+itertools
+scipy
